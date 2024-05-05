@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/similant2.iml" filepath="$PROJECT_DIR$/.idea/similant2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../visme-ant/.idea/visme-ant.iml" filepath="$PROJECT_DIR$/../visme-ant/.idea/visme-ant.iml" />
     </modules>
   </component>
 </project>
